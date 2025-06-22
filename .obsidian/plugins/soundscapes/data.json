@@ -1,0 +1,463 @@
+{
+  "soundscape": "MY_MUSIC",
+  "volume": 100,
+  "autoplay": false,
+  "scrollSongTitle": true,
+  "customSoundscapes": [],
+  "myMusicIndex": [
+    {
+      "fileName": "22 - Taylor Swift (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\22 - Taylor Swift (Lyrics).mp3",
+      "title": "22 - Taylor Swift (Lyrics)",
+      "duration": 246.83102040816325
+    },
+    {
+      "fileName": "Adele - Skyfall (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Adele - Skyfall (Lyrics).mp3",
+      "title": "Adele - Skyfall (Lyrics)",
+      "duration": 284.496
+    },
+    {
+      "fileName": "Aerosmith - Dream On (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Aerosmith - Dream On (Lyrics).mp3",
+      "title": "Aerosmith - Dream On (Lyrics)",
+      "duration": 267.048
+    },
+    {
+      "fileName": "Alan Walker - Darkside (Lyrics) ft. AuRa and Tomine Harket.mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Alan Walker - Darkside (Lyrics) ft. AuRa and Tomine Harket.mp3",
+      "title": "Alan Walker - Darkside (Lyrics) ft. AuRa and Tomine Harket",
+      "duration": 211.8
+    },
+    {
+      "fileName": "Alan Walker - Faded (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Alan Walker - Faded (Lyrics).mp3",
+      "title": "Alan Walker - Faded (Lyrics)",
+      "duration": 212.736
+    },
+    {
+      "fileName": "Alec Benjamin  If We Have Each Other (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Alec Benjamin  If We Have Each Other (Lyrics).mp3",
+      "title": "Alec Benjamin  If We Have Each Other (Lyrics)",
+      "duration": 184.272
+    },
+    {
+      "fileName": "Alec Benjamin - Let Me Down Slowly (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Alec Benjamin - Let Me Down Slowly (Lyrics).mp3",
+      "title": "Alec Benjamin - Let Me Down Slowly (Lyrics)",
+      "duration": 169.82204081632653
+    },
+    {
+      "fileName": "Alex & Sierra - Little Do You Know (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Alex & Sierra - Little Do You Know (Lyrics).mp3",
+      "title": "Alex & Sierra - Little Do You Know (Lyrics)",
+      "duration": 198.6873469387755
+    },
+    {
+      "fileName": "Alexander Rybak - Fairytale (Lyrics) Norway  Eurovision Winner 2009.mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Alexander Rybak - Fairytale (Lyrics) Norway  Eurovision Winner 2009.mp3",
+      "title": "Alexander Rybak - Fairytale (Lyrics) Norway  Eurovision Winner 2009",
+      "duration": 182.4
+    },
+    {
+      "fileName": "ALL OF ME - JOHN LEGEND (LYRICS VIDEO).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\ALL OF ME - JOHN LEGEND (LYRICS VIDEO).mp3",
+      "title": "ALL OF ME - JOHN LEGEND (LYRICS VIDEO)",
+      "duration": 292.4669387755102
+    },
+    {
+      "fileName": "Anuv Jain - HUSN (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Anuv Jain - HUSN (Lyrics).mp3",
+      "title": "Anuv Jain - HUSN (Lyrics)",
+      "duration": 218.09632653061223
+    },
+    {
+      "fileName": "Ashe - Moral of the Story (Clean - Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Ashe - Moral of the Story (Clean - Lyrics).mp3",
+      "title": "Ashe - Moral of the Story (Clean - Lyrics)",
+      "duration": 197.88
+    },
+    {
+      "fileName": "AURORA - Runaway (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\AURORA - Runaway (Lyrics).mp3",
+      "title": "AURORA - Runaway (Lyrics)",
+      "duration": 306.2073469387755
+    },
+    {
+      "fileName": "Billie Eilish - lovely (Lyrics) ft. Khalid.mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Billie Eilish - lovely (Lyrics) ft. Khalid.mp3",
+      "title": "Billie Eilish - lovely (Lyrics) ft. Khalid",
+      "duration": 200.04
+    },
+    {
+      "fileName": "Charlie Puth , Selena Gomez - We Dont Talk  Anymore  (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Charlie Puth , Selena Gomez - We Dont Talk  Anymore  (Lyrics).mp3",
+      "title": "Charlie Puth , Selena Gomez - We Dont Talk  Anymore  (Lyrics)",
+      "duration": 214.33469387755102
+    },
+    {
+      "fileName": "Christina Perri - A Thousand Years.mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Christina Perri - A Thousand Years.mp3",
+      "title": "Christina Perri - A Thousand Years",
+      "duration": 285.62285714285713
+    },
+    {
+      "fileName": "Coldplay - Hymn For The Weekend (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Coldplay - Hymn For The Weekend (Lyrics).mp3",
+      "title": "Coldplay - Hymn For The Weekend (Lyrics)",
+      "duration": 226.56
+    },
+    {
+      "fileName": "Duncan Laurence - Arcade (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Duncan Laurence - Arcade (Lyrics).mp3",
+      "title": "Duncan Laurence - Arcade (Lyrics)",
+      "duration": 183.79755102040815
+    },
+    {
+      "fileName": "Ed Sheeran - Perfect.mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Ed Sheeran - Perfect.mp3",
+      "title": "Ed Sheeran - Perfect",
+      "duration": 263.736
+    },
+    {
+      "fileName": "Egzod & Maestro Chives - Royalty (Lyrics) ft. Neoni.mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Egzod & Maestro Chives - Royalty (Lyrics) ft. Neoni.mp3",
+      "title": "Egzod & Maestro Chives - Royalty (Lyrics) ft. Neoni",
+      "duration": 220.776
+    },
+    {
+      "fileName": "Elley Duhé - Middle of the Night (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Elley Duhé - Middle of the Night (Lyrics).mp3",
+      "title": "Elley Duhé - Middle of the Night (Lyrics)",
+      "duration": 182.832
+    },
+    {
+      "fileName": "Ellie Goulding - Love Me Like You Do  (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Ellie Goulding - Love Me Like You Do  (Lyrics).mp3",
+      "title": "Ellie Goulding - Love Me Like You Do  (Lyrics)",
+      "duration": 239.592
+    },
+    {
+      "fileName": "Fall Out Boy - Centuries (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Fall Out Boy - Centuries (Lyrics).mp3",
+      "title": "Fall Out Boy - Centuries (Lyrics)",
+      "duration": 226.92
+    },
+    {
+      "fileName": "Gasoline - Halsey (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Gasoline - Halsey (Lyrics).mp3",
+      "title": "Gasoline - Halsey (Lyrics)",
+      "duration": 193.488
+    },
+    {
+      "fileName": "Gym Class Heroes - Stereo Hearts (Lyrics)  Heart Stereo.mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Gym Class Heroes - Stereo Hearts (Lyrics)  Heart Stereo.mp3",
+      "title": "Gym Class Heroes - Stereo Hearts (Lyrics)  Heart Stereo",
+      "duration": 211.09551020408162
+    },
+    {
+      "fileName": "Imagine Dragons - Bad Liar (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Imagine Dragons - Bad Liar (Lyrics).mp3",
+      "title": "Imagine Dragons - Bad Liar (Lyrics)",
+      "duration": 258.74285714285713
+    },
+    {
+      "fileName": "Imagine Dragons - Believer (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Imagine Dragons - Believer (Lyrics).mp3",
+      "title": "Imagine Dragons - Believer (Lyrics)",
+      "duration": 204.456
+    },
+    {
+      "fileName": "Imagine Dragons - Demons (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Imagine Dragons - Demons (Lyrics).mp3",
+      "title": "Imagine Dragons - Demons (Lyrics)",
+      "duration": 174.384
+    },
+    {
+      "fileName": "Imagine Dragons - Whatever It Takes (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Imagine Dragons - Whatever It Takes (Lyrics).mp3",
+      "title": "Imagine Dragons - Whatever It Takes (Lyrics)",
+      "duration": 197.784
+    },
+    {
+      "fileName": "Imagine Dragons x JID - Enemy (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Imagine Dragons x JID - Enemy (Lyrics).mp3",
+      "title": "Imagine Dragons x JID - Enemy (Lyrics)",
+      "duration": 170.47510204081632
+    },
+    {
+      "fileName": "James Arthur - Impossible (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\James Arthur - Impossible (Lyrics).mp3",
+      "title": "James Arthur - Impossible (Lyrics)",
+      "duration": 207
+    },
+    {
+      "fileName": "James Arthur - Say You Won't Let Go.mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\James Arthur - Say You Won't Let Go.mp3",
+      "title": "James Arthur - Say You Won't Let Go",
+      "duration": 212.76734693877552
+    },
+    {
+      "fileName": "John Legend - All of Me (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\John Legend - All of Me (Lyrics).mp3",
+      "title": "John Legend - All of Me (Lyrics)",
+      "duration": 269.256
+    },
+    {
+      "fileName": "Justin Bieber - Love Yourself (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Justin Bieber - Love Yourself (Lyrics).mp3",
+      "title": "Justin Bieber - Love Yourself (Lyrics)",
+      "duration": 236.8261224489796
+    },
+    {
+      "fileName": "Lana Del Rey - Summertime Sadness (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Lana Del Rey - Summertime Sadness (Lyrics).mp3",
+      "title": "Lana Del Rey - Summertime Sadness (Lyrics)",
+      "duration": 264.96
+    },
+    {
+      "fileName": "Legends Never Die (ft. Against The Current) [OFFICIAL AUDIO]  Worlds 2017 - League of Legends.mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Legends Never Die (ft. Against The Current) [OFFICIAL AUDIO]  Worlds 2017 - League of Legends.mp3",
+      "title": "Legends Never Die (ft. Against The Current) [OFFICIAL AUDIO]  Worlds 2017 - League of Legends",
+      "duration": 235.15428571428572
+    },
+    {
+      "fileName": "Lewis Capaldi - Someone You Loved (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Lewis Capaldi - Someone You Loved (Lyrics).mp3",
+      "title": "Lewis Capaldi - Someone You Loved (Lyrics)",
+      "duration": 182.33469387755102
+    },
+    {
+      "fileName": "Lukas Graham - 7 Years.mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Lukas Graham - 7 Years.mp3",
+      "title": "Lukas Graham - 7 Years",
+      "duration": 233.832
+    },
+    {
+      "fileName": "Maroon 5 - Memories (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Maroon 5 - Memories (Lyrics).mp3",
+      "title": "Maroon 5 - Memories (Lyrics)",
+      "duration": 184.55510204081634
+    },
+    {
+      "fileName": "Messi & Ronaldo - Wavin' Flag..mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Messi & Ronaldo - Wavin' Flag..mp3",
+      "title": "Messi & Ronaldo - Wavin' Flag.",
+      "duration": 224.57469387755103
+    },
+    {
+      "fileName": "Miley Cyrus - Wrecking Ball (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Miley Cyrus - Wrecking Ball (Lyrics).mp3",
+      "title": "Miley Cyrus - Wrecking Ball (Lyrics)",
+      "duration": 221.304
+    },
+    {
+      "fileName": "Nathan Evans - Wellerman (Sea Shanty) (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Nathan Evans - Wellerman (Sea Shanty) (Lyrics).mp3",
+      "title": "Nathan Evans - Wellerman (Sea Shanty) (Lyrics)",
+      "duration": 156.26448979591837
+    },
+    {
+      "fileName": "One Direction - Night Changes (lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\One Direction - Night Changes (lyrics).mp3",
+      "title": "One Direction - Night Changes (lyrics)",
+      "duration": 288.54857142857145
+    },
+    {
+      "fileName": "One Direction - Steal My Girl (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\One Direction - Steal My Girl (Lyrics).mp3",
+      "title": "One Direction - Steal My Girl (Lyrics)",
+      "duration": 288.792
+    },
+    {
+      "fileName": "One Direction - What Makes You Beautiful (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\One Direction - What Makes You Beautiful (Lyrics).mp3",
+      "title": "One Direction - What Makes You Beautiful (Lyrics)",
+      "duration": 267.67673469387756
+    },
+    {
+      "fileName": "OneRepublic - Counting Stars (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\OneRepublic - Counting Stars (Lyrics).mp3",
+      "title": "OneRepublic - Counting Stars (Lyrics)",
+      "duration": 257.4889795918367
+    },
+    {
+      "fileName": "Parampara Thakur - Raanjhan  (Lyrics)  Do Patti  Kirti Sanon  Shaheer Sheikh.mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Parampara Thakur - Raanjhan  (Lyrics)  Do Patti  Kirti Sanon  Shaheer Sheikh.mp3",
+      "title": "Parampara Thakur - Raanjhan  (Lyrics)  Do Patti  Kirti Sanon  Shaheer Sheikh",
+      "duration": 239.83020408163264
+    },
+    {
+      "fileName": "Passenger - Let Her Go (Feat. Ed Sheeran - Anniversary Edition) [Official Video].mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Passenger - Let Her Go (Feat. Ed Sheeran - Anniversary Edition) [Official Video].mp3",
+      "title": "Passenger - Let Her Go (Feat. Ed Sheeran - Anniversary Edition) [Official Video]",
+      "duration": 285.23102040816326
+    },
+    {
+      "fileName": "rhianne - Somewhere Only We Know (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\rhianne - Somewhere Only We Know (Lyrics).mp3",
+      "title": "rhianne - Somewhere Only We Know (Lyrics)",
+      "duration": 184.032
+    },
+    {
+      "fileName": "Rockabye - Clean Bandit ft. Sean Paul & Anne-Marie (LyricsVietsub).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Rockabye - Clean Bandit ft. Sean Paul & Anne-Marie (LyricsVietsub).mp3",
+      "title": "Rockabye - Clean Bandit ft. Sean Paul & Anne-Marie (LyricsVietsub)",
+      "duration": 250.17469387755102
+    },
+    {
+      "fileName": "Rosa Linn - Snap - (Official Eurovision Music Video).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Rosa Linn - Snap - (Official Eurovision Music Video).mp3",
+      "title": "Rosa Linn - Snap - (Official Eurovision Music Video)",
+      "duration": 195.168
+    },
+    {
+      "fileName": "Ruth B. - Dandelions (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Ruth B. - Dandelions (Lyrics).mp3",
+      "title": "Ruth B. - Dandelions (Lyrics)",
+      "duration": 228.91102040816327
+    },
+    {
+      "fileName": "Sadie Jean - Locksmith (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Sadie Jean - Locksmith (Lyrics).mp3",
+      "title": "Sadie Jean - Locksmith (Lyrics)",
+      "duration": 164.328
+    },
+    {
+      "fileName": "SawanoHiroyuki[nZk]_XAI DARK ARIA LV2 Music Video.mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\SawanoHiroyuki[nZk]_XAI DARK ARIA LV2 Music Video.mp3",
+      "title": "SawanoHiroyuki[nZk]_XAI DARK ARIA LV2 Music Video",
+      "duration": 144.82285714285715
+    },
+    {
+      "fileName": "Shawn Mendes - Mercy (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Shawn Mendes - Mercy (Lyrics).mp3",
+      "title": "Shawn Mendes - Mercy (Lyrics)",
+      "duration": 209.03183673469388
+    },
+    {
+      "fileName": "Shawn Mendes - Treat You Better (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Shawn Mendes - Treat You Better (Lyrics).mp3",
+      "title": "Shawn Mendes - Treat You Better (Lyrics)",
+      "duration": 257.0710204081633
+    },
+    {
+      "fileName": "Shontelle - Impossible (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Shontelle - Impossible (Lyrics).mp3",
+      "title": "Shontelle - Impossible (Lyrics)",
+      "duration": 225.72408163265305
+    },
+    {
+      "fileName": "Sia - Cheap Thrills (Lyrics) ft. Sean Paul.mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Sia - Cheap Thrills (Lyrics) ft. Sean Paul.mp3",
+      "title": "Sia - Cheap Thrills (Lyrics) ft. Sean Paul",
+      "duration": 222.336
+    },
+    {
+      "fileName": "Sia - Unstoppable (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Sia - Unstoppable (Lyrics).mp3",
+      "title": "Sia - Unstoppable (Lyrics)",
+      "duration": 215.64081632653063
+    },
+    {
+      "fileName": "SLANDER - Love is Gone (Lyrics) ft. Dylan Matthew (Acoustic) I'm sorry don't leave me.mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\SLANDER - Love is Gone (Lyrics) ft. Dylan Matthew (Acoustic) I'm sorry don't leave me.mp3",
+      "title": "SLANDER - Love is Gone (Lyrics) ft. Dylan Matthew (Acoustic) I'm sorry don't leave me",
+      "duration": 175.176
+    },
+    {
+      "fileName": "Tate McRae - you broke me first (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Tate McRae - you broke me first (Lyrics).mp3",
+      "title": "Tate McRae - you broke me first (Lyrics)",
+      "duration": 164.376
+    },
+    {
+      "fileName": "Taylor Swift - Blank Space (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Taylor Swift - Blank Space (Lyrics).mp3",
+      "title": "Taylor Swift - Blank Space (Lyrics)",
+      "duration": 231.26204081632653
+    },
+    {
+      "fileName": "Taylor Swift - Love Story (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Taylor Swift - Love Story (Lyrics).mp3",
+      "title": "Taylor Swift - Love Story (Lyrics)",
+      "duration": 234.072
+    },
+    {
+      "fileName": "Taylor Swift - Red (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Taylor Swift - Red (Lyrics).mp3",
+      "title": "Taylor Swift - Red (Lyrics)",
+      "duration": 222.01469387755103
+    },
+    {
+      "fileName": "Taylor Swift, Zayn - I Don't Wanna Live Forever (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Taylor Swift, Zayn - I Don't Wanna Live Forever (Lyrics).mp3",
+      "title": "Taylor Swift, Zayn - I Don't Wanna Live Forever (Lyrics)",
+      "duration": 247.61469387755102
+    },
+    {
+      "fileName": "The Chainsmokers - Closer (Lyrics) ft. Halsey.mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\The Chainsmokers - Closer (Lyrics) ft. Halsey.mp3",
+      "title": "The Chainsmokers - Closer (Lyrics) ft. Halsey",
+      "duration": 240.312
+    },
+    {
+      "fileName": "The Score-Born For This (Lyrics Video).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\The Score-Born For This (Lyrics Video).mp3",
+      "title": "The Score-Born For This (Lyrics Video)",
+      "duration": 233.5608163265306
+    },
+    {
+      "fileName": "TheFatRat - Rise Up (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\TheFatRat - Rise Up (Lyrics).mp3",
+      "title": "TheFatRat - Rise Up (Lyrics)",
+      "duration": 169.752
+    },
+    {
+      "fileName": "Tom Odell - Another Love (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Tom Odell - Another Love (Lyrics).mp3",
+      "title": "Tom Odell - Another Love (Lyrics)",
+      "duration": 241.536
+    },
+    {
+      "fileName": "Until I Found You -Stephen Sanchez ft. Em Beihold (Lyric Video).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Until I Found You -Stephen Sanchez ft. Em Beihold (Lyric Video).mp3",
+      "title": "Until I Found You -Stephen Sanchez ft. Em Beihold (Lyric Video)",
+      "duration": 169.536
+    },
+    {
+      "fileName": "Water Fountain - Alec Benjamin  [LyricsVietsub].mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Water Fountain - Alec Benjamin  [LyricsVietsub].mp3",
+      "title": "Water Fountain - Alec Benjamin  [LyricsVietsub]",
+      "duration": 217.3126530612245
+    },
+    {
+      "fileName": "Witt Lowry - Into Your Arms (Lyrics) ft. Ava Max - [No Rap].mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Witt Lowry - Into Your Arms (Lyrics) ft. Ava Max - [No Rap].mp3",
+      "title": "Witt Lowry - Into Your Arms (Lyrics) ft. Ava Max - [No Rap]",
+      "duration": 140.088
+    },
+    {
+      "fileName": "Wiz Khalifa - See You Again ft. Charlie Puth (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\Wiz Khalifa - See You Again ft. Charlie Puth (Lyrics).mp3",
+      "title": "Wiz Khalifa - See You Again ft. Charlie Puth (Lyrics)",
+      "duration": 229.98204081632653
+    },
+    {
+      "fileName": "You Belong With Me - Taylor Swift (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\You Belong With Me - Taylor Swift (Lyrics).mp3",
+      "title": "You Belong With Me - Taylor Swift (Lyrics)",
+      "duration": 227.952
+    },
+    {
+      "fileName": "ZAYN & Sia - Dusk Till Dawn (Lyrics).mp3",
+      "fullPath": "C:\\Users\\LENOVO\\Music\\Work Music\\ZAYN & Sia - Dusk Till Dawn (Lyrics).mp3",
+      "title": "ZAYN & Sia - Dusk Till Dawn (Lyrics)",
+      "duration": 235.056
+    }
+  ],
+  "myMusicFolderPath": "C:\\Users\\LENOVO\\Music\\Work Music",
+  "reindexFrequency": "1440",
+  "myMusicShuffle": false,
+  "currentTrackIndex": 46
+}

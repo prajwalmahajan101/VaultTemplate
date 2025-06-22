@@ -1,0 +1,29 @@
+{
+  "palette": {
+    "seed": 3,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": true
+  },
+  "knownTags": {
+    "daily_note": 1,
+    "todo": 2,
+    "project": 3,
+    "project/skulogic": 1,
+    "task_notes": 4,
+    "sub_task_notes": 5,
+    "RabbitMQ": 6,
+    "study_notes": 7,
+    "study_topic": 8,
+    "project/skulogic_dashboard": 2,
+    "meeting_notes": 9,
+    "project/traffic_management": 3,
+    "person": 10,
+    "personal": 11
+  },
+  "_version": 3
+}

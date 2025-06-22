@@ -1,0 +1,57 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "_templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "00_Daily_Notes",
+      "template": "_templates/Daily Notes.md"
+    },
+    {
+      "folder": "02_Sub_Task_Notes",
+      "template": "_templates/Sub Task Template.md"
+    },
+    {
+      "folder": "01_Task_Notes",
+      "template": "_templates/Main Task Template.md"
+    },
+    {
+      "folder": "05_Meeting Notes",
+      "template": "_templates/Meeting Notes.md"
+    },
+    {
+      "folder": "03_Study_Notes/notes",
+      "template": "_templates/Study Notes.md"
+    },
+    {
+      "folder": "03_Study_Notes/topics",
+      "template": "_templates/Study Topic Notes.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ]
+}

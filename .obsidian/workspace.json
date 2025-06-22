@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "fc3f74b7ae2a8b71",
+    "type": "split",
+    "children": [
+      {
+        "id": "587c8cc7cdbb3616",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67cf0566759672aa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83d10a5933b61987",
+    "type": "split",
+    "children": [
+      {
+        "id": "35e251b395bf127d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96cc30a781b5ec62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ed9d1475b936afae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#typescript",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c308c9aad90f7797",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "cf0cd3b450c7e7f2",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "12baeeebe3e575a7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293
+  },
+  "right": {
+    "id": "db065bf854d3a184",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec0fe965eec40fa7",
+        "type": "tabs",
+        "dimension": 38.03230543318649,
+        "children": [
+          {
+            "id": "22de0011062a17b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Life Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Life Dashboard"
+            }
+          },
+          {
+            "id": "81f82e5a5496ada4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "94b05e7f2540cd99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Life Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Life Dashboard"
+            }
+          },
+          {
+            "id": "0673045f52e33976",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "3ac62572e4e8c013",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "90333b80cd8c3ec7",
+        "type": "tabs",
+        "dimension": 61.96769456681351,
+        "children": [
+          {
+            "id": "a37c05f1532d891b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": true,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -0.3,
+                  "nodeSizeMultiplier": 0.533854166666667,
+                  "lineSizeMultiplier": 0.661458333333333,
+                  "collapse-forces": true,
+                  "centerStrength": 0.90625,
+                  "repelStrength": 2.5,
+                  "linkStrength": 0.536458333333333,
+                  "linkDistance": 94,
+                  "scale": 1.0534979423868414,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 433
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "periodic-notes:Open today": false,
+      "callout-manager:Insert Callout": false,
+      "soundscapes:Soundscapes: My Music": false,
+      "janitor:Janitor: scan vault": false
+    }
+  },
+  "active": "67cf0566759672aa",
+  "lastOpenFiles": [
+    "00_Daily_Notes/2025/June/20-06-2025.md",
+    "Life Dashboard.md",
+    "02_Sub_Task_Notes/AMR Entity Update For manufacturer.md",
+    "00_Daily_Notes/2025/June",
+    "00_Daily_Notes/2025",
+    "00_Daily_Notes/2025/June/16-06-2025.md",
+    "00_Daily_Notes/2025/June/15-06-2025.md",
+    "00_Daily_Notes/2025/June/17-06-2025.md",
+    "03_Study_Notes/notes/Abstraction In Typescript.md",
+    "03_Study_Notes/notes/Polymorphism In Typescript.md",
+    "03_Study_Notes/notes/OOPs - For Design Pattern.md",
+    "03_Study_Notes/notes/Inheritance In Typescript.md",
+    "03_Study_Notes/notes/Cloud Computing.md",
+    "03_Study_Notes/notes/Encapsulation In Typescript.md",
+    "03_Study_Notes/notes/Class Diagrams.md",
+    "03_Study_Notes/topics/UML.md",
+    "02_Sub_Task_Notes/RabbitMQ and MQTT with bind Queue.md",
+    "04_Projects/Synthia_Dashboard/_Information.md",
+    "04_Projects/Synthia_Dashboard/Sprint Plan.md",
+    "04_Projects/Synthia_Dashboard/Meeting Note Links.md",
+    "05_Meeting Notes/Synthia-Quason Dashboard Matrix Discussion.md",
+    "00_Daily_Notes/2025/June/19-06-2025.md",
+    "00_Daily_Notes/2025/April/28-04-2025.md",
+    "00_Daily_Notes/2025/April/27-04-2025.md",
+    "00_Daily_Notes/2025/April/26-04-2025.md",
+    "00_Daily_Notes/2025/April/25-04-2025.md",
+    "00_Daily_Notes/2025/April/23-04-2025.md",
+    "00_Daily_Notes/2025/April/19-04-2025.md",
+    "_assets/gitflow.png",
+    "04_Projects/Skulogic/__assets/MQTT-Broker-AMQP-Subscribe.png",
+    "04_Projects/Skulogic/__assets/MQTT-Subscription-Architecture.png",
+    "04_Projects/Skulogic/__assets/DB-Design-Final.png",
+    "06_Hobbies/Watch/Reactors",
+    "06_Hobbies/Read/Writers",
+    "06_Hobbies/Watch/Reaction",
+    "06_Hobbies/Watch/Series",
+    "06_Hobbies/Watch/Movie",
+    "06_Hobbies/Watch",
+    "06_Hobbies/Read/Fanfiction",
+    "06_Hobbies/Read/Book",
+    "_assets/Pasted image 20250115113211.png",
+    "_assets/Pasted image 20250226182937.png",
+    "04_Projects/Skulogic/__assets/DB-Design-Change.png",
+    "_assets/Pasted image 20250226174803.png",
+    "_assets/Pasted image 20250226193736.png",
+    "_assets/Pasted image 20250226193612.png"
+  ]
+}
