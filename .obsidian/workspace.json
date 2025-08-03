@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "587c8cc7cdbb3616",
+        "id": "23f474b8689d33cc",
         "type": "tabs",
         "children": [
           {
-            "id": "67cf0566759672aa",
+            "id": "a40474ee33f76174",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Life Dashboard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Life Dashboard"
             }
           }
         ]
@@ -49,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#typescript",
+                "query": "tag:#be",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293
+    "width": 259
   },
   "right": {
     "id": "db065bf854d3a184",
@@ -103,7 +108,7 @@
       {
         "id": "ec0fe965eec40fa7",
         "type": "tabs",
-        "dimension": 38.03230543318649,
+        "dimension": 35.46511627906977,
         "children": [
           {
             "id": "22de0011062a17b6",
@@ -159,12 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Life Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Life Dashboard"
             }
           },
           {
@@ -183,7 +189,7 @@
       {
         "id": "90333b80cd8c3ec7",
         "type": "tabs",
-        "dimension": 61.96769456681351,
+        "dimension": 64.53488372093024,
         "children": [
           {
             "id": "a37c05f1532d891b",
@@ -191,41 +197,57 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Life Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 3,
-                  "localBacklinks": true,
+                  "localJumps": 2,
+                  "localBacklinks": false,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": true,
+                  "showAttachments": false,
                   "hideUnresolved": true,
                   "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "colorGroups": [
+                    {
+                      "query": "tag:#study_topic  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#study_notes  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": -0.3,
                   "nodeSizeMultiplier": 0.533854166666667,
-                  "lineSizeMultiplier": 0.661458333333333,
-                  "collapse-forces": true,
-                  "centerStrength": 0.90625,
-                  "repelStrength": 2.5,
-                  "linkStrength": 0.536458333333333,
-                  "linkDistance": 94,
-                  "scale": 1.0534979423868414,
+                  "lineSizeMultiplier": 2.03958333333333,
+                  "collapse-forces": false,
+                  "centerStrength": 0.786458333333333,
+                  "repelStrength": 6.66666666666667,
+                  "linkStrength": 0.848958333333333,
+                  "linkDistance": 30,
+                  "scale": 1.0534979423868323,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Life Dashboard"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 433
+    "width": 378
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,51 +268,51 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "67cf0566759672aa",
+  "active": "a40474ee33f76174",
   "lastOpenFiles": [
-    "00_Daily_Notes/2025/June/20-06-2025.md",
     "Life Dashboard.md",
+    "05_Meeting_Notes/Example Meeting Notes.md",
+    "06_Hobbies/Read/Book/Fourth wing.md",
+    "04_Projects/Project 1/Reports/Report.md",
+    "04_Projects/Project 1/Documents/Document.md",
+    "04_Projects/Project 1/__introduction.md",
+    "04_Projects/Project 1/Reports",
+    "04_Projects/Project 1/Documents",
+    "03_Study_Notes/topics/Example Study Topic.md",
+    "04_Projects/Project 1",
+    "03_Study_Notes/notes/Example Study Note.md",
+    "02_Sub_Task_Notes/Example Sub Task.md",
+    "01_Task_Notes/Example Task.md",
+    "02_Sub_Task_Notes/Implement Visualization Topic Handler.md",
+    "02_Sub_Task_Notes/Implement Connection Topic Handler.md",
+    "02_Sub_Task_Notes/Create and Review DB change Designs.md",
     "02_Sub_Task_Notes/AMR Entity Update For manufacturer.md",
-    "00_Daily_Notes/2025/June",
-    "00_Daily_Notes/2025",
-    "00_Daily_Notes/2025/June/16-06-2025.md",
-    "00_Daily_Notes/2025/June/15-06-2025.md",
-    "00_Daily_Notes/2025/June/17-06-2025.md",
-    "03_Study_Notes/notes/Abstraction In Typescript.md",
-    "03_Study_Notes/notes/Polymorphism In Typescript.md",
-    "03_Study_Notes/notes/OOPs - For Design Pattern.md",
-    "03_Study_Notes/notes/Inheritance In Typescript.md",
-    "03_Study_Notes/notes/Cloud Computing.md",
-    "03_Study_Notes/notes/Encapsulation In Typescript.md",
-    "03_Study_Notes/notes/Class Diagrams.md",
-    "03_Study_Notes/topics/UML.md",
-    "02_Sub_Task_Notes/RabbitMQ and MQTT with bind Queue.md",
-    "04_Projects/Synthia_Dashboard/_Information.md",
-    "04_Projects/Synthia_Dashboard/Sprint Plan.md",
-    "04_Projects/Synthia_Dashboard/Meeting Note Links.md",
-    "05_Meeting Notes/Synthia-Quason Dashboard Matrix Discussion.md",
-    "00_Daily_Notes/2025/June/19-06-2025.md",
-    "00_Daily_Notes/2025/April/28-04-2025.md",
-    "00_Daily_Notes/2025/April/27-04-2025.md",
-    "00_Daily_Notes/2025/April/26-04-2025.md",
-    "00_Daily_Notes/2025/April/25-04-2025.md",
-    "00_Daily_Notes/2025/April/23-04-2025.md",
-    "00_Daily_Notes/2025/April/19-04-2025.md",
+    "__scrible/Drawing 2025-07-10 12.53.39.excalidraw.md",
+    "01_Task_Notes/Action Type Table.md",
     "_assets/gitflow.png",
+    "_templates/Daily Notes.md",
+    "_templates/Main Task Template.md",
+    "_templates/Meeting Notes.md",
+    "_templates/Study Notes.md",
+    "_templates/Sub Task Template.md",
+    "_templates/Study Topic Notes.md",
+    "00_Daily_Notes/2025/August/03-08-2025.md",
+    "00_Daily_Notes/2025/July/31-07-2025.md",
+    "00_Daily_Notes/2025/August",
+    "00_Daily_Notes/2025/July/29-07-2025.md",
+    "04_Projects/Skulogic/Documents/Estimates.md",
+    "__scrible",
     "04_Projects/Skulogic/__assets/MQTT-Broker-AMQP-Subscribe.png",
+    "04_Projects/Skulogic/__assets/DB-Design-Change.png",
     "04_Projects/Skulogic/__assets/MQTT-Subscription-Architecture.png",
     "04_Projects/Skulogic/__assets/DB-Design-Final.png",
+    "00_Daily_Notes/2025/July",
     "06_Hobbies/Watch/Reactors",
     "06_Hobbies/Read/Writers",
     "06_Hobbies/Watch/Reaction",
     "06_Hobbies/Watch/Series",
-    "06_Hobbies/Watch/Movie",
-    "06_Hobbies/Watch",
-    "06_Hobbies/Read/Fanfiction",
-    "06_Hobbies/Read/Book",
     "_assets/Pasted image 20250115113211.png",
     "_assets/Pasted image 20250226182937.png",
-    "04_Projects/Skulogic/__assets/DB-Design-Change.png",
     "_assets/Pasted image 20250226174803.png",
     "_assets/Pasted image 20250226193736.png",
     "_assets/Pasted image 20250226193612.png"

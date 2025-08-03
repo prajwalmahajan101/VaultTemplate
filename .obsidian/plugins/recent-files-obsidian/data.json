@@ -1,196 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "20-06-2025",
-      "path": "00_Daily_Notes/2025/June/20-06-2025.md"
-    },
-    {
       "basename": "Life Dashboard",
       "path": "Life Dashboard.md"
     },
     {
-      "basename": "17-06-2025",
-      "path": "00_Daily_Notes/2025/June/17-06-2025.md"
+      "basename": "Example Meeting Notes",
+      "path": "05_Meeting_Notes/Example Meeting Notes.md"
     },
     {
-      "basename": "16-06-2025",
-      "path": "00_Daily_Notes/2025/June/16-06-2025.md"
+      "basename": "Report",
+      "path": "04_Projects/Project 1/Reports/Report.md"
     },
     {
-      "basename": "15-06-2025",
-      "path": "00_Daily_Notes/2025/June/15-06-2025.md"
+      "basename": "Document",
+      "path": "04_Projects/Project 1/Documents/Document.md"
     },
     {
-      "basename": "Abstraction In Typescript",
-      "path": "03_Study_Notes/notes/Abstraction In Typescript.md"
+      "basename": "__introduction",
+      "path": "04_Projects/Project 1/__introduction.md"
     },
     {
-      "basename": "Polymorphism In Typescript",
-      "path": "03_Study_Notes/notes/Polymorphism In Typescript.md"
+      "basename": "Example Study Topic",
+      "path": "03_Study_Notes/topics/Example Study Topic.md"
     },
     {
-      "basename": "OOPs - For Design Pattern",
-      "path": "03_Study_Notes/notes/OOPs - For Design Pattern.md"
+      "basename": "Example Study Note",
+      "path": "03_Study_Notes/notes/Example Study Note.md"
     },
     {
-      "basename": "Inheritance In Typescript",
-      "path": "03_Study_Notes/notes/Inheritance In Typescript.md"
+      "basename": "Example Sub Task",
+      "path": "02_Sub_Task_Notes/Example Sub Task.md"
     },
     {
-      "basename": "Cloud Computing",
-      "path": "03_Study_Notes/notes/Cloud Computing.md"
+      "basename": "Example Task",
+      "path": "01_Task_Notes/Example Task.md"
     },
     {
-      "basename": "Encapsulation In Typescript",
-      "path": "03_Study_Notes/notes/Encapsulation In Typescript.md"
+      "basename": "Drawing 2025-07-10 12.53.39.excalidraw",
+      "path": "__scrible/Drawing 2025-07-10 12.53.39.excalidraw.md"
     },
     {
-      "basename": "Class Diagrams",
-      "path": "03_Study_Notes/notes/Class Diagrams.md"
+      "basename": "gitflow",
+      "path": "_assets/gitflow.png"
     },
     {
-      "basename": "UML",
-      "path": "03_Study_Notes/topics/UML.md"
+      "basename": "Daily Notes",
+      "path": "_templates/Daily Notes.md"
     },
     {
-      "basename": "_Information",
-      "path": "04_Projects/Synthia_Dashboard/_Information.md"
+      "basename": "Main Task Template",
+      "path": "_templates/Main Task Template.md"
     },
     {
-      "basename": "Synthia-Quason Dashboard Matrix Discussion",
-      "path": "05_Meeting Notes/Synthia-Quason Dashboard Matrix Discussion.md"
+      "basename": "Meeting Notes",
+      "path": "_templates/Meeting Notes.md"
     },
     {
-      "basename": "19-06-2025",
-      "path": "00_Daily_Notes/2025/June/19-06-2025.md"
+      "basename": "Study Notes",
+      "path": "_templates/Study Notes.md"
     },
     {
-      "basename": "28-04-2025",
-      "path": "00_Daily_Notes/2025/April/28-04-2025.md"
+      "basename": "Sub Task Template",
+      "path": "_templates/Sub Task Template.md"
     },
     {
-      "basename": "27-04-2025",
-      "path": "00_Daily_Notes/2025/April/27-04-2025.md"
+      "basename": "Study Topic Notes",
+      "path": "_templates/Study Topic Notes.md"
     },
     {
-      "basename": "26-04-2025",
-      "path": "00_Daily_Notes/2025/April/26-04-2025.md"
-    },
-    {
-      "basename": "25-04-2025",
-      "path": "00_Daily_Notes/2025/April/25-04-2025.md"
-    },
-    {
-      "basename": "23-04-2025",
-      "path": "00_Daily_Notes/2025/April/23-04-2025.md"
-    },
-    {
-      "basename": "19-04-2025",
-      "path": "00_Daily_Notes/2025/April/19-04-2025.md"
-    },
-    {
-      "basename": "18-04-2025",
-      "path": "00_Daily_Notes/2025/April/18-04-2025.md"
-    },
-    {
-      "basename": "15-04-2025",
-      "path": "00_Daily_Notes/2025/April/15-04-2025.md"
-    },
-    {
-      "basename": "14-04-2025",
-      "path": "00_Daily_Notes/2025/April/14-04-2025.md"
-    },
-    {
-      "basename": "13-04-2025",
-      "path": "00_Daily_Notes/2025/April/13-04-2025.md"
-    },
-    {
-      "basename": "12-04-2025",
-      "path": "00_Daily_Notes/2025/April/12-04-2025.md"
-    },
-    {
-      "basename": "11-04-2025",
-      "path": "00_Daily_Notes/2025/April/11-04-2025.md"
-    },
-    {
-      "basename": "10-04-2025",
-      "path": "00_Daily_Notes/2025/April/10-04-2025.md"
-    },
-    {
-      "basename": "09-04-2025",
-      "path": "00_Daily_Notes/2025/April/09-04-2025.md"
-    },
-    {
-      "basename": "08-04-2025",
-      "path": "00_Daily_Notes/2025/April/08-04-2025.md"
-    },
-    {
-      "basename": "07-04-2025",
-      "path": "00_Daily_Notes/2025/April/07-04-2025.md"
-    },
-    {
-      "basename": "06-04-2025",
-      "path": "00_Daily_Notes/2025/April/06-04-2025.md"
-    },
-    {
-      "basename": "05-04-2025",
-      "path": "00_Daily_Notes/2025/April/05-04-2025.md"
-    },
-    {
-      "basename": "04-04-2025",
-      "path": "00_Daily_Notes/2025/April/04-04-2025.md"
-    },
-    {
-      "basename": "03-04-2025",
-      "path": "00_Daily_Notes/2025/April/03-04-2025.md"
-    },
-    {
-      "basename": "02-04-2025",
-      "path": "00_Daily_Notes/2025/April/02-04-2025.md"
-    },
-    {
-      "basename": "01-04-2025",
-      "path": "00_Daily_Notes/2025/April/01-04-2025.md"
-    },
-    {
-      "basename": "31-03-2025",
-      "path": "00_Daily_Notes/2025/March/31-03-2025.md"
-    },
-    {
-      "basename": "30-03-2025",
-      "path": "00_Daily_Notes/2025/March/30-03-2025.md"
-    },
-    {
-      "basename": "29-03-2025",
-      "path": "00_Daily_Notes/2025/March/29-03-2025.md"
-    },
-    {
-      "basename": "28-03-2025",
-      "path": "00_Daily_Notes/2025/March/28-03-2025.md"
-    },
-    {
-      "basename": "27-03-2025",
-      "path": "00_Daily_Notes/2025/March/27-03-2025.md"
-    },
-    {
-      "basename": "26-03-2025",
-      "path": "00_Daily_Notes/2025/March/26-03-2025.md"
-    },
-    {
-      "basename": "25-03-2025",
-      "path": "00_Daily_Notes/2025/March/25-03-2025.md"
-    },
-    {
-      "basename": "24-03-2025",
-      "path": "00_Daily_Notes/2025/March/24-03-2025.md"
-    },
-    {
-      "basename": "23-03-2025",
-      "path": "00_Daily_Notes/2025/March/23-03-2025.md"
-    },
-    {
-      "basename": "22-03-2025",
-      "path": "00_Daily_Notes/2025/March/22-03-2025.md"
+      "basename": "03-08-2025",
+      "path": "00_Daily_Notes/2025/August/03-08-2025.md"
     }
   ],
   "omittedPaths": [],

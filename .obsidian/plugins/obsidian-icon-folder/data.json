@@ -33,22 +33,13 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "04_Projects/Skulogic": "🤖",
   "04_Projects": "LiBuilding",
-  "05_Meeting Notes": "LiPhoneCall",
   "_assets": "LiAsterisk",
-  "04_Projects/Synthia_Dashboard": "LiLayoutDashboard",
   "03_Study_Notes": "LiBook",
   "02_Sub_Task_Notes": "LiCheck",
   "01_Task_Notes": "LiCheckCheck",
   "00_Daily_Notes": "LiRepeat",
   "_templates": "LiParentheses",
   "06_Hobbies": "LiTv2",
-  "06_Hobbies/Read/Book": "LiBookHeart",
-  "06_Hobbies/Read/Fanfiction": "LiFan",
-  "06_Hobbies/Read/Writers": "LiBot",
-  "06_Hobbies/Watch/Movie": "LiCamera",
-  "06_Hobbies/Watch/Series": "LiTv2",
-  "06_Hobbies/Watch/Reactors": "🤯",
-  "06_Hobbies/Watch/Reaction": "😄"
+  "05_Meeting_Notes": "LiPhoneCall"
 }

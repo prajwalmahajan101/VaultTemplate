@@ -22,8 +22,16 @@
     "project/skulogic_dashboard": 2,
     "meeting_notes": 9,
     "project/traffic_management": 3,
-    "person": 10,
-    "personal": 11
+    "abstraction": 10,
+    "typescript": 11,
+    "excalidraw": 12,
+    "fe": 13,
+    "be": 14,
+    "critical": 15,
+    "high": 16,
+    "midi305-": 17,
+    "sahil": 18,
+    "client": 19
   },
   "_version": 3
 }

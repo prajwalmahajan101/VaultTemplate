@@ -1,0 +1,1403 @@
+{
+    "Pending": {
+        "Life Dashboard.md": [
+            {
+                "id": 4284024529,
+                "status": " ",
+                "title": "#todo Fill Clockify for Time Tracking 🔺 🔁 every day ➕ 2025-06-23 🛫 2025-06-23 ⏳ 2025-06-23 📅 2025-06-23",
+                "body": [],
+                "time": "",
+                "due": "2025-06-23",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 1,
+                "filePath": "Life Dashboard.md",
+                "completion": ""
+            }
+        ],
+        "00_Daily_Notes/2025/June/18-06-2025.md": [
+            {
+                "id": 1962241912,
+                "status": " ",
+                "title": "#todo Research XSLT and XML transformation ⏫ ➕ 2025-06-18 🛫 2025-06-18 ⏳ 2025-06-18 📅 2025-06-19",
+                "body": [],
+                "time": "",
+                "due": "2025-06-19",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 2,
+                "filePath": "00_Daily_Notes/2025/June/18-06-2025.md",
+                "completion": ""
+            }
+        ]
+    },
+    "Completed": {
+        "Life Dashboard.md": [
+            {
+                "id": 2256589271,
+                "status": "x",
+                "title": "#todo Fill Clockify for Time Tracking 🔺 🔁 every day ➕ 2025-06-23 🛫 2025-06-22 ⏳ 2025-06-22 📅 2025-06-22 ✅ 2025-06-23",
+                "body": [],
+                "time": "",
+                "due": "2025-06-22",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 1,
+                "filePath": "Life Dashboard.md",
+                "completion": "2025-06-23"
+            },
+            {
+                "id": 244071146,
+                "status": "x",
+                "title": "#todo Fill Clockify for Time Tracking 🔺 🔁 every day ➕ 2025-06-20 🛫 2025-06-21 ⏳ 2025-06-21 📅 2025-06-21 ✅ 2025-06-23",
+                "body": [],
+                "time": "",
+                "due": "2025-06-21",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 1,
+                "filePath": "Life Dashboard.md",
+                "completion": "2025-06-23"
+            },
+            {
+                "id": 2050927526,
+                "status": "x",
+                "title": "#todo Fill Clockify for Time Tracking 🔺 🔁 every day ➕ 2025-06-19 🛫 2025-06-20 ⏳ 2025-06-20 📅 2025-06-20 ✅ 2025-06-20",
+                "body": [],
+                "time": "",
+                "due": "2025-06-20",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 1,
+                "filePath": "Life Dashboard.md",
+                "completion": "2025-06-20"
+            },
+            {
+                "id": 561603820,
+                "status": "x",
+                "title": "#todo Fill Clockify for Time Tracking 🔺 🔁 every day ➕ 2025-06-18 🛫 2025-06-19 ⏳ 2025-06-19 📅 2025-06-19 ✅ 2025-06-19",
+                "body": [],
+                "time": "",
+                "due": "2025-06-19",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 1,
+                "filePath": "Life Dashboard.md",
+                "completion": "2025-06-19"
+            },
+            {
+                "id": 348521155,
+                "status": "x",
+                "title": "#todo Fill Clockify for Time Tracking 🔺 🔁 every day ➕ 2025-06-17 🛫 2025-06-18 ⏳ 2025-06-18 📅 2025-06-18 ✅ 2025-06-18",
+                "body": [],
+                "time": "",
+                "due": "2025-06-18",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 1,
+                "filePath": "Life Dashboard.md",
+                "completion": "2025-06-18"
+            }
+        ],
+        "05_Meeting Notes/MQTT Broker And DB Design Discussion.md": [
+            {
+                "id": 2386415701,
+                "status": "x",
+                "title": "#todo Look into [[RabbitMQ and MQTT with bind Queue|RabbitMQ and MQTT with bind Queue]] ➕ 2024-12-05 🛫 2024-12-05 ⏳ 2024-12-05 📅 2024-12-06 ✅ 2024-12-05",
+                "body": [],
+                "time": "",
+                "due": "2024-12-06",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "05_Meeting Notes/MQTT Broker And DB Design Discussion.md",
+                "completion": "2024-12-05"
+            }
+        ],
+        "02_Sub_Task_Notes/Scale MQTT Microservice.md": [
+            {
+                "id": 487434960,
+                "status": "x",
+                "title": "#todo Meeting: [[MQTT Broker And DB Design Discussion|Connect with Sachin Sir regarding MQTT Broker]] ⏫ ➕ 2024-12-04 🛫 2024-12-04 ⏳ 2024-12-04 📅 2024-12-05 ✅ 2024-12-05",
+                "body": [],
+                "time": "",
+                "due": "2024-12-05",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 2,
+                "filePath": "02_Sub_Task_Notes/Scale MQTT Microservice.md",
+                "completion": "2024-12-05"
+            }
+        ],
+        "02_Sub_Task_Notes/RabbitMQ and MQTT with bind Queue.md": [
+            {
+                "id": 2462672767,
+                "status": "x",
+                "title": "#todo Connect with Sachin sir with About the number of queue ⏫ ➕ 2024-12-05 🛫 2024-12-06 ⏳ 2024-12-06 📅 2024-12-07 ✅ 2024-12-06",
+                "body": [],
+                "time": "",
+                "due": "2024-12-07",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 2,
+                "filePath": "02_Sub_Task_Notes/RabbitMQ and MQTT with bind Queue.md",
+                "completion": "2024-12-06"
+            },
+            {
+                "id": 2427725173,
+                "status": "x",
+                "title": "#todo Connect with Sachin Sir for [[Review For the System Design For MQTT Subscriber With Sachin Sir|Review For the System Design For MQTT Subscriber With Sachin Sir]] ⏫ ➕ 2024-12-06 🛫 2024-12-06 ⏳ 2024-12-07 📅 2024-12-07 ✅ 2024-12-07",
+                "body": [],
+                "time": "",
+                "due": "2024-12-07",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 2,
+                "filePath": "02_Sub_Task_Notes/RabbitMQ and MQTT with bind Queue.md",
+                "completion": "2024-12-07"
+            }
+        ],
+        "02_Sub_Task_Notes/High Level Design for Subscribe Microservice.md": [
+            {
+                "id": 1618741070,
+                "status": "x",
+                "title": "#todo Start with boiler plate code and clean it up for  Microservice ✅ 2024-12-09📅 ➕ 2024-12-09 🛫 2024-12-09 ⏳ 2024-12-10 📅 2024-12-10 ✅ 2024-12-09",
+                "body": [],
+                "time": "",
+                "due": "2024-12-10",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "02_Sub_Task_Notes/High Level Design for Subscribe Microservice.md",
+                "completion": "2024-12-09📅"
+            }
+        ],
+        "02_Sub_Task_Notes/Create Implementation of Queue Per Topic Strategy.md": [
+            {
+                "id": 35047169,
+                "status": "x",
+                "title": "#todo Create a subscribe method for per Topic Strategy ➕ 2024-12-10 🛫 2024-12-10 ⏳ 2024-12-10 📅 2024-12-11 ✅ 2024-12-10",
+                "body": [],
+                "time": "",
+                "due": "2024-12-11",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "02_Sub_Task_Notes/Create Implementation of Queue Per Topic Strategy.md",
+                "completion": "2024-12-10"
+            },
+            {
+                "id": 1436616105,
+                "status": "x",
+                "title": "#todo Create a unsubscribe service for per Topic Strategy ➕ 2024-12-10 🛫 2024-12-10 ⏳ 2024-12-10 📅 2024-12-11 ✅ 2024-12-10",
+                "body": [],
+                "time": "",
+                "due": "2024-12-11",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "02_Sub_Task_Notes/Create Implementation of Queue Per Topic Strategy.md",
+                "completion": "2024-12-10"
+            }
+        ],
+        "02_Sub_Task_Notes/Create Implementation of Queue Per AMR Strategy.md": [
+            {
+                "id": 2292069757,
+                "status": "x",
+                "title": "#todo Create a subscribe method for per AMR Strategy ➕ 2024-12-10 🛫 2024-12-10 ⏳ 2024-12-10 📅 2024-12-11 ✅ 2024-12-10",
+                "body": [],
+                "time": "",
+                "due": "2024-12-11",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "02_Sub_Task_Notes/Create Implementation of Queue Per AMR Strategy.md",
+                "completion": "2024-12-10"
+            },
+            {
+                "id": 2327112920,
+                "status": "x",
+                "title": "#todo Create a unsubscribe service for per AMR Strategy ➕ 2024-12-10 🛫 2024-12-10 ⏳ 2024-12-10 📅 2024-12-11 ✅ 2024-12-10",
+                "body": [],
+                "time": "",
+                "due": "2024-12-11",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "02_Sub_Task_Notes/Create Implementation of Queue Per AMR Strategy.md",
+                "completion": "2024-12-10"
+            },
+            {
+                "id": 1149597995,
+                "status": "x",
+                "title": "#todo Look into Requeuing the Message in case of error while handling ➕ 2024-12-10 🛫 2024-12-11 ⏳ 2024-12-11 📅 2024-12-12 ✅ 2024-12-16",
+                "body": [],
+                "time": "",
+                "due": "2024-12-12",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "02_Sub_Task_Notes/Create Implementation of Queue Per AMR Strategy.md",
+                "completion": "2024-12-16"
+            }
+        ],
+        "02_Sub_Task_Notes/Create and Review DB change Designs.md": [
+            {
+                "id": 198956373,
+                "status": "x",
+                "title": "#todo Meeting: [[MQTT Broker And DB Design Discussion|Connect with Sachin sir to get the Review For DB Design change]] ➕ 2024-12-05 🛫 2024-12-06 ⏳ 2024-12-05 📅 2024-12-05 ✅ 2024-12-05",
+                "body": [],
+                "time": "",
+                "due": "2024-12-05",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "02_Sub_Task_Notes/Create and Review DB change Designs.md",
+                "completion": "2024-12-05"
+            }
+        ],
+        "01_Task_Notes/RabbitMQ and MQTT Setup.md": [
+            {
+                "id": 2091021216,
+                "status": "x",
+                "title": "#todo [[Setup RabbitMQ with MQTT Plugin Installed on Docker|Setup RabbitMQ with MQTT Plugin Installed on Docker]] 🔺 🛫 2024-12-02 📅 2024-12-02 ✅ 2024-12-02",
+                "body": [],
+                "time": "",
+                "due": "2024-12-02",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 1,
+                "filePath": "01_Task_Notes/RabbitMQ and MQTT Setup.md",
+                "completion": "2024-12-02"
+            },
+            {
+                "id": 3353276720,
+                "status": "x",
+                "title": "#todo [[Setup MQTT NestJs Microservice|Setup MQTT NestJs Microservice]] ⏫ 🛫 2024-12-02 📅 2024-12-03 ✅ 2024-12-03",
+                "body": [],
+                "time": "",
+                "due": "2024-12-03",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 2,
+                "filePath": "01_Task_Notes/RabbitMQ and MQTT Setup.md",
+                "completion": "2024-12-03"
+            },
+            {
+                "id": 1523066024,
+                "status": "x",
+                "title": "#todo [[Scale MQTT Microservice|Scalability Of Microservice]] ⏫ 🛫 2024-12-03 📅 2024-12-04 ✅ 2024-12-04",
+                "body": [],
+                "time": "",
+                "due": "2024-12-04",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 2,
+                "filePath": "01_Task_Notes/RabbitMQ and MQTT Setup.md",
+                "completion": "2024-12-04"
+            },
+            {
+                "id": 2347251341,
+                "status": "x",
+                "title": "#todo Setup Test Publisher for Sending Messages 🔽 ➕ 2024-12-05 🛫 2024-12-09 ⏳ 2024-12-09 📅 2024-12-11 ✅ 2024-12-07",
+                "body": [],
+                "time": "",
+                "due": "2024-12-11",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 4,
+                "filePath": "01_Task_Notes/RabbitMQ and MQTT Setup.md",
+                "completion": "2024-12-07"
+            },
+            {
+                "id": 3732664048,
+                "status": "x",
+                "title": "#todo Setup Test Subscriber for Receiving Messages ⏬ ➕ 2024-12-05 🛫 2024-12-11 ⏳ 2024-12-11 📅 2024-12-13 ✅ 2024-12-07",
+                "body": [],
+                "time": "",
+                "due": "2024-12-13",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 5,
+                "filePath": "01_Task_Notes/RabbitMQ and MQTT Setup.md",
+                "completion": "2024-12-07"
+            }
+        ],
+        "01_Task_Notes/DB Entity Change.md": [
+            {
+                "id": 267902711,
+                "status": "x",
+                "title": "#todo [[Create and Review DB change Designs|Create and Review DB change Designs]] ➕ 2024-12-02 🛫 2024-12-02 ⏳ 2024-12-03 📅 2024-12-03 ✅ 2024-12-05",
+                "body": [],
+                "time": "",
+                "due": "2024-12-03",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "01_Task_Notes/DB Entity Change.md",
+                "completion": "2024-12-05"
+            },
+            {
+                "id": 894735024,
+                "status": "x",
+                "title": "#todo [[Skulogic/Sub Task Notes/AMR Entity And CRUD Update|AMR Entity And CRUD Update]] 🔼 🛫 2024-12-16 ⏳ 2024-12-20 📅 2024-12-20 ✅ 2024-12-16",
+                "body": [],
+                "time": "",
+                "due": "2024-12-20",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 3,
+                "filePath": "01_Task_Notes/DB Entity Change.md",
+                "completion": "2024-12-16"
+            },
+            {
+                "id": 1684365989,
+                "status": "x",
+                "title": "#todo [[Skulogic/Sub Task Notes/Location Entity And CRUD Update|Location Entity And CRUD Update]] 🔼 🛫 2024-12-16 ⏳ 2024-12-20 📅 2024-12-20 ✅ 2024-12-16",
+                "body": [],
+                "time": "",
+                "due": "2024-12-20",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 3,
+                "filePath": "01_Task_Notes/DB Entity Change.md",
+                "completion": "2024-12-16"
+            },
+            {
+                "id": 1062637551,
+                "status": "x",
+                "title": "#todo [[Skulogic/Sub Task Notes/Communication Log Entity Creation with CRUD Operation service|Communication Log Entity Creation with CRUD Operation service]] 🔼 🛫 2024-12-16 ⏳ 2024-12-20 📅 2024-12-20 ✅ 2024-12-16",
+                "body": [],
+                "time": "",
+                "due": "2024-12-20",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 3,
+                "filePath": "01_Task_Notes/DB Entity Change.md",
+                "completion": "2024-12-16"
+            }
+        ],
+        "01_Task_Notes/Creating Subscriber Microservice.md": [
+            {
+                "id": 2679705834,
+                "status": "x",
+                "title": "#todo Create A [[High Level Design for Subscribe Microservice|Design for the Subscriber Microservice]] with classes and their attributes and methods ⏫ ➕ 2024-12-08 🛫 2024-12-09 ⏳ 2024-12-10 📅 2024-12-10",
+                "body": [],
+                "time": "",
+                "due": "2024-12-10",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 2,
+                "filePath": "01_Task_Notes/Creating Subscriber Microservice.md",
+                "completion": ""
+            },
+            {
+                "id": 2385534429,
+                "status": "x",
+                "title": "#todo [[Create Strategy Factory and Strategy Interface]] ➕ 2024-12-09 🛫 2024-12-09 ⏳ 2024-12-09 📅 2024-12-10 ✅ 2024-12-09",
+                "body": [],
+                "time": "",
+                "due": "2024-12-10",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "01_Task_Notes/Creating Subscriber Microservice.md",
+                "completion": "2024-12-09"
+            },
+            {
+                "id": 460299619,
+                "status": "x",
+                "title": "#todo [[Create Implementation of Queue Per AMR Strategy]] ➕ 2024-12-10 🛫 2024-12-10 ⏳ 2024-12-11 📅 2024-12-11 ✅ 2024-12-10",
+                "body": [],
+                "time": "",
+                "due": "2024-12-11",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "01_Task_Notes/Creating Subscriber Microservice.md",
+                "completion": "2024-12-10"
+            },
+            {
+                "id": 136089425,
+                "status": "x",
+                "title": "#todo [[Create Implementation of Queue Per Topic Strategy]] ➕ 2024-12-10 🛫 2024-12-10 ⏳ 2024-12-10 📅 2024-12-11 ✅ 2024-12-10",
+                "body": [],
+                "time": "",
+                "due": "2024-12-11",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "01_Task_Notes/Creating Subscriber Microservice.md",
+                "completion": "2024-12-10"
+            },
+            {
+                "id": 509977649,
+                "status": "x",
+                "title": "#todo [[Create Topic Handler Factory and Topic Handler Interface]] ➕ 2024-12-09 🛫 2024-12-09 ⏳ 2024-12-09 📅 2024-12-10 ✅ 2024-12-09",
+                "body": [],
+                "time": "",
+                "due": "2024-12-10",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "01_Task_Notes/Creating Subscriber Microservice.md",
+                "completion": "2024-12-09"
+            },
+            {
+                "id": 2784185624,
+                "status": "x",
+                "title": "#todo [[Implement State Topic Handler]] ➕ 2024-12-10 🛫 2024-12-12 ⏳ 2024-12-12 📅 2024-12-31 ✅ 2025-01-02",
+                "body": [],
+                "time": "",
+                "due": "2024-12-31",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "01_Task_Notes/Creating Subscriber Microservice.md",
+                "completion": "2025-01-02"
+            },
+            {
+                "id": 1835828195,
+                "status": "x",
+                "title": "#todo [[Implement Factsheet Topic Handler]] ➕ 2024-12-10 🛫 2024-12-12 ⏳ 2024-12-12 📅 2024-12-27 ✅ 2025-01-02",
+                "body": [],
+                "time": "",
+                "due": "2024-12-27",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "01_Task_Notes/Creating Subscriber Microservice.md",
+                "completion": "2025-01-02"
+            },
+            {
+                "id": 2466342107,
+                "status": "x",
+                "title": "#todo [[Implement Connection Topic Handler]] ➕ 2024-12-10 🛫 2024-12-12 ⏳ 2024-12-12 📅 2024-12-31 ✅ 2025-01-02",
+                "body": [],
+                "time": "",
+                "due": "2024-12-31",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "01_Task_Notes/Creating Subscriber Microservice.md",
+                "completion": "2025-01-02"
+            },
+            {
+                "id": 1933838537,
+                "status": "x",
+                "title": "#todo [[Implement Visualization Topic Handler]] ➕ 2024-12-10 🛫 2025-01-08 ⏳ 2024-12-12 📅 2025-01-17 ✅ 2025-01-08",
+                "body": [],
+                "time": "",
+                "due": "2025-01-17",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "01_Task_Notes/Creating Subscriber Microservice.md",
+                "completion": "2025-01-08"
+            }
+        ],
+        "01_Task_Notes/Action Type Table.md": [
+            {
+                "id": 2783979073,
+                "status": "x",
+                "title": "#todo [[AMR Entity Update For manufacturer]] ➕ 2024-12-31 🛫 2024-12-31 ⏳ 2024-12-31 📅 2025-01-03 ✅ 2025-01-02",
+                "body": [],
+                "time": "",
+                "due": "2025-01-03",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "01_Task_Notes/Action Type Table.md",
+                "completion": "2025-01-02"
+            }
+        ],
+        "00_Daily_Notes/2025/March/31-03-2025.md": [
+            {
+                "id": 1603300481,
+                "status": "x",
+                "title": "#todo Create DB Diagram for Old and New Entities 🔺 ➕ 2025-03-28 🛫 2025-03-29 ⏳ 2025-04-01 📅 2025-04-01 ✅ 2025-04-03",
+                "body": [],
+                "time": "",
+                "due": "2025-04-01",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 1,
+                "filePath": "00_Daily_Notes/2025/March/31-03-2025.md",
+                "completion": "2025-04-03"
+            },
+            {
+                "id": 2856957049,
+                "status": "x",
+                "title": "#todo Freeze DB Diagram with Murugan 🔺 ➕ 2025-03-28 🛫 2025-03-29 ⏳ 2025-04-01 📅 2025-04-01 ✅ 2025-04-03",
+                "body": [],
+                "time": "",
+                "due": "2025-04-01",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 1,
+                "filePath": "00_Daily_Notes/2025/March/31-03-2025.md",
+                "completion": "2025-04-03"
+            }
+        ],
+        "00_Daily_Notes/2025/March/04-03-2025.md": [
+            {
+                "id": 3802545355,
+                "status": "x",
+                "title": "#todo Connect with Sparsh for Creating dividing Project into smaller tasks ➕ 2025-03-04 🛫 2025-03-04 ⏳ 2025-03-04 📅 2025-03-04 ✅ 2025-03-04",
+                "body": [],
+                "time": "",
+                "due": "2025-03-04",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/March/04-03-2025.md",
+                "completion": "2025-03-04"
+            }
+        ],
+        "00_Daily_Notes/2025/January/22-01-2025.md": [
+            {
+                "id": 4104865851,
+                "status": "x",
+                "title": "#todo Stimulator Requirement Collection and Specification ➕ 2025-01-22 🛫 2025-01-22 ⏳ 2025-01-23 📅 2025-01-23 ✅ 2025-01-22",
+                "body": [],
+                "time": "",
+                "due": "2025-01-23",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/22-01-2025.md",
+                "completion": "2025-01-22"
+            },
+            {
+                "id": 3174906819,
+                "status": "x",
+                "title": "#todo Client Dev - Adding Storage SubModule ➕ 2025-01-22 🛫 2025-01-22 ⏳ 2025-01-23 📅 2025-01-23 ✅ 2025-01-22",
+                "body": [],
+                "time": "",
+                "due": "2025-01-23",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/22-01-2025.md",
+                "completion": "2025-01-22"
+            },
+            {
+                "id": 3603683973,
+                "status": "x",
+                "title": "#todo Testing MQTT on QA, Client QA and Client Dev ➕ 2025-01-22 🛫 2025-01-22 ⏳ 2025-01-23 📅 2025-01-23 ✅ 2025-01-23",
+                "body": [],
+                "time": "",
+                "due": "2025-01-23",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/22-01-2025.md",
+                "completion": "2025-01-23"
+            },
+            {
+                "id": 85729804,
+                "status": "x",
+                "title": "#todo Unblocking FE Teams ➕ 2025-01-22 🛫 2025-01-22 ⏳ 2025-01-23 📅 2025-01-23 ✅ 2025-01-22",
+                "body": [],
+                "time": "",
+                "due": "2025-01-23",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/22-01-2025.md",
+                "completion": "2025-01-22"
+            },
+            {
+                "id": 2704705983,
+                "status": "x",
+                "title": "#todo QF-241 Admin - All the admin Logins are not allowed to reset password for any of the Users ➕ 2025-01-22 🛫 2025-01-22 ⏳ 2025-01-23 📅 2025-01-23 ✅ 2025-01-22",
+                "body": [],
+                "time": "",
+                "due": "2025-01-23",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/22-01-2025.md",
+                "completion": "2025-01-22"
+            },
+            {
+                "id": 608288775,
+                "status": "x",
+                "title": "#todo Checkout AMR Creation Issue ➕ 2025-01-22 🛫 2025-01-22 ⏳ 2025-01-22 📅 2025-01-23 ✅ 2025-01-23",
+                "body": [],
+                "time": "",
+                "due": "2025-01-23",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/22-01-2025.md",
+                "completion": "2025-01-23"
+            }
+        ],
+        "00_Daily_Notes/2025/January/30-01-2025.md": [
+            {
+                "id": 4058968864,
+                "status": "x",
+                "title": "#todo #project/skulogic Instant Action API Integration ➕ 2025-01-30 🛫 2025-01-30 ⏳ 2025-01-30 📅 2025-02-08 ✅ 2025-02-07",
+                "body": [],
+                "time": "",
+                "due": "2025-02-08",
+                "tags": [
+                    "#todo",
+                    "#project/skulogic"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/30-01-2025.md",
+                "completion": "2025-02-07"
+            }
+        ],
+        "00_Daily_Notes/2025/January/21-01-2025.md": [
+            {
+                "id": 1750756696,
+                "status": "x",
+                "title": "#todo Auth issue Client Dev ➕ 2025-01-21 🛫 2025-01-21 ⏳ 2025-01-21 📅 2025-01-22 ✅ 2025-01-21",
+                "body": [],
+                "time": "",
+                "due": "2025-01-22",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/21-01-2025.md",
+                "completion": "2025-01-21"
+            },
+            {
+                "id": 585713553,
+                "status": "x",
+                "title": "#todo Storage Module issue Client Dev ➕ 2025-01-21 🛫 2025-01-21 ⏳ 2025-01-21 📅 2025-01-22 ✅ 2025-01-21",
+                "body": [],
+                "time": "",
+                "due": "2025-01-22",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/21-01-2025.md",
+                "completion": "2025-01-21"
+            }
+        ],
+        "00_Daily_Notes/2025/January/20-01-2025.md": [
+            {
+                "id": 489823640,
+                "status": "x",
+                "title": "#todo Create Filter Estimates ➕ 2025-01-20 🛫 2025-01-20 ⏳ 2025-01-21 📅 2025-01-21 ✅ 2025-01-20",
+                "body": [],
+                "time": "",
+                "due": "2025-01-21",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/20-01-2025.md",
+                "completion": "2025-01-20"
+            },
+            {
+                "id": 2712685308,
+                "status": "x",
+                "title": "#todo Checkout MQTT protocol for Quason dev ➕ 2025-01-20 🛫 2025-01-20 ⏳ 2025-01-21 📅 2025-01-21 ✅ 2025-01-20",
+                "body": [],
+                "time": "",
+                "due": "2025-01-21",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/20-01-2025.md",
+                "completion": "2025-01-20"
+            },
+            {
+                "id": 2577182373,
+                "status": "x",
+                "title": "#todo Checkout image issue for the Quason dev ➕ 2025-01-20 🛫 2025-01-20 ⏳ 2025-01-21 📅 2025-01-21 ✅ 2025-01-21",
+                "body": [],
+                "time": "",
+                "due": "2025-01-21",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/20-01-2025.md",
+                "completion": "2025-01-21"
+            }
+        ],
+        "00_Daily_Notes/2025/January/15-01-2025.md": [
+            {
+                "id": 4196758503,
+                "status": "x",
+                "title": "#todo Ask For Nodes Autocomplete API ➕ 2025-01-15 🛫 2025-01-15 ⏳ 2025-01-15 📅 2025-01-16 ✅ 2025-01-16",
+                "body": [],
+                "time": "",
+                "due": "2025-01-16",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/15-01-2025.md",
+                "completion": "2025-01-16"
+            }
+        ],
+        "00_Daily_Notes/2025/January/17-01-2025.md": [
+            {
+                "id": 3305589510,
+                "status": "x",
+                "title": "#todo Internal Subscription Message Body DTO Change ➕ 2025-01-17 🛫 2025-01-17 ⏳ 2025-01-17 📅 2025-01-18 ❌ 2025-01-22",
+                "body": [],
+                "time": "",
+                "due": "2025-01-18",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/17-01-2025.md",
+                "completion": ""
+            },
+            {
+                "id": 2909633636,
+                "status": "x",
+                "title": "#todo Client QA FE Not Updating Issue ➕ 2025-01-17 🛫 2025-01-17 ⏳ 2025-01-17 📅 2025-01-18 ✅ 2025-01-22",
+                "body": [],
+                "time": "",
+                "due": "2025-01-18",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/17-01-2025.md",
+                "completion": "2025-01-22"
+            }
+        ],
+        "00_Daily_Notes/2025/January/16-01-2025.md": [
+            {
+                "id": 304506107,
+                "status": "x",
+                "title": "#todo Ask For DNS Access dodaddy ➕ 2025-01-16 🛫 2025-01-16 ⏳ 2025-01-16 📅 2025-01-17 ✅ 2025-01-17",
+                "body": [],
+                "time": "",
+                "due": "2025-01-17",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/16-01-2025.md",
+                "completion": "2025-01-17"
+            }
+        ],
+        "00_Daily_Notes/2025/January/10-01-2025.md": [
+            {
+                "id": 3087020444,
+                "status": "x",
+                "title": "#todo Connect with @Shunmugan for code clean up ➕ 2025-01-10 🛫 2025-01-10 ⏳ 2025-01-10 📅 2025-01-10 ✅ 2025-01-10",
+                "body": [],
+                "time": "",
+                "due": "2025-01-10",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/10-01-2025.md",
+                "completion": "2025-01-10"
+            }
+        ],
+        "00_Daily_Notes/2025/January/07-01-2025.md": [
+            {
+                "id": 375869402,
+                "status": "x",
+                "title": "#todo Run SQL Script on Client QA Server ➕ 2025-01-07 🛫 2025-01-07 ⏳ 2025-01-07 📅 2025-01-07 ✅ 2025-01-07",
+                "body": [],
+                "time": "",
+                "due": "2025-01-07",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/07-01-2025.md",
+                "completion": "2025-01-07"
+            },
+            {
+                "id": 3962683154,
+                "status": "x",
+                "title": "#todo Validation For Communication Log Entity For Create/Update ➕ 2025-01-07 🛫 2025-01-07 ⏳ 2025-01-07 📅 2025-01-08 ✅ 2025-01-07",
+                "body": [],
+                "time": "",
+                "due": "2025-01-08",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/07-01-2025.md",
+                "completion": "2025-01-07"
+            },
+            {
+                "id": 3772628043,
+                "status": "x",
+                "title": "#todo Communication Log Creation From Sub Microservice ➕ 2025-01-07 🛫 2025-01-07 ⏳ 2025-01-07 📅 2025-01-08 ✅ 2025-01-07",
+                "body": [],
+                "time": "",
+                "due": "2025-01-08",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/07-01-2025.md",
+                "completion": "2025-01-07"
+            },
+            {
+                "id": 3442873509,
+                "status": "x",
+                "title": "#todo Ask @Milind for calendar issue ➕ 2025-01-07 🛫 2025-01-07 ⏳ 2025-01-07 📅 2025-01-08 ✅ 2025-01-08",
+                "body": [],
+                "time": "",
+                "due": "2025-01-08",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/07-01-2025.md",
+                "completion": "2025-01-08"
+            },
+            {
+                "id": 4162162753,
+                "status": "x",
+                "title": "#todo Ask @Vijet about Bot Server Issue ➕ 2025-01-07 🛫 2025-01-07 ⏳ 2025-01-07 📅 2025-01-08 ✅ 2025-01-08",
+                "body": [],
+                "time": "",
+                "due": "2025-01-08",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/07-01-2025.md",
+                "completion": "2025-01-08"
+            },
+            {
+                "id": 2134356328,
+                "status": "x",
+                "title": "#todo Create Entity for Visualization ➕ 2025-01-07 🛫 2025-01-07 ⏳ 2025-01-07 📅 2025-01-08 ✅ 2025-01-08",
+                "body": [],
+                "time": "",
+                "due": "2025-01-08",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/07-01-2025.md",
+                "completion": "2025-01-08"
+            },
+            {
+                "id": 2239891801,
+                "status": "x",
+                "title": "#todo Ask @Sritej about Code Mirror ➕ 2025-01-07 🛫 2025-01-07 ⏳ 2025-01-07 📅 2025-01-08 ✅ 2025-01-08",
+                "body": [],
+                "time": "",
+                "due": "2025-01-08",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/07-01-2025.md",
+                "completion": "2025-01-08"
+            }
+        ],
+        "00_Daily_Notes/2025/January/06-01-2025.md": [
+            {
+                "id": 4063236130,
+                "status": "x",
+                "title": "#todo Request Visualization Message Example ➕ 2025-01-06 🛫 2025-01-06 ⏳ 2025-01-06 📅 2025-01-07 ✅ 2025-01-07",
+                "body": [],
+                "time": "",
+                "due": "2025-01-07",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/06-01-2025.md",
+                "completion": "2025-01-07"
+            },
+            {
+                "id": 3059311531,
+                "status": "x",
+                "title": "#todo Deployment for React and Nodejs-Custom from quason-dev ➕ 2025-01-06 ⏳ 2025-01-06 📅 2025-01-07 ✅ 2025-01-07",
+                "body": [],
+                "time": "",
+                "due": "2025-01-07",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/06-01-2025.md",
+                "completion": "2025-01-07"
+            }
+        ],
+        "00_Daily_Notes/2025/January/08-01-2025.md": [
+            {
+                "id": 4285120794,
+                "status": "x",
+                "title": "#todo Create Archive Table for Visualization ➕ 2025-01-08 🛫 2025-01-08 ⏳ 2025-01-08 📅 2025-01-09 ✅ 2025-01-10",
+                "body": [],
+                "time": "",
+                "due": "2025-01-09",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/08-01-2025.md",
+                "completion": "2025-01-10"
+            },
+            {
+                "id": 4147318158,
+                "status": "x",
+                "title": "#todo Create Script For Visualization data Archiving ➕ 2025-01-08 🛫 2025-01-08 ⏳ 2025-01-08 📅 2025-01-10 ✅ 2025-01-10",
+                "body": [],
+                "time": "",
+                "due": "2025-01-10",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/January/08-01-2025.md",
+                "completion": "2025-01-10"
+            }
+        ],
+        "00_Daily_Notes/2025/February/28-02-2025.md": [
+            {
+                "id": 3685042651,
+                "status": "x",
+                "title": "#todo Ask Praveen about the microservice going down issue 🔺 ➕ 2025-02-28 🛫 2025-02-28 ⏳ 2025-02-28 📅 2025-02-28 ✅ 2025-03-10",
+                "body": [],
+                "time": "",
+                "due": "2025-02-28",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 1,
+                "filePath": "00_Daily_Notes/2025/February/28-02-2025.md",
+                "completion": "2025-03-10"
+            },
+            {
+                "id": 1401654072,
+                "status": "x",
+                "title": "#todo Ask Praveen to add SonarQube to MQTT for repo 🔺 ➕ 2025-02-28 🛫 2025-02-28 ⏳ 2025-02-28 📅 2025-02-28 ✅ 2025-04-03",
+                "body": [],
+                "time": "",
+                "due": "2025-02-28",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 1,
+                "filePath": "00_Daily_Notes/2025/February/28-02-2025.md",
+                "completion": "2025-04-03"
+            },
+            {
+                "id": 2711318682,
+                "status": "x",
+                "title": "#todo Connect with Sanhil and Sparsh for integration Layer ⏫ ➕ 2025-02-28 🛫 2025-02-28 ⏳ 2025-02-28 📅 2025-02-28 ✅ 2025-03-04",
+                "body": [],
+                "time": "",
+                "due": "2025-02-28",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 2,
+                "filePath": "00_Daily_Notes/2025/February/28-02-2025.md",
+                "completion": "2025-03-04"
+            }
+        ],
+        "00_Daily_Notes/2025/February/26-02-2025.md": [
+            {
+                "id": 1331873237,
+                "status": "x",
+                "title": "#todo Testing Action Parameter and Action Type on QA ⏫ ➕ 2025-02-26 🛫 2025-02-26 📅 2025-02-26 ✅ 2025-02-27",
+                "body": [],
+                "time": "",
+                "due": "2025-02-26",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 2,
+                "filePath": "00_Daily_Notes/2025/February/26-02-2025.md",
+                "completion": "2025-02-27"
+            },
+            {
+                "id": 400132730,
+                "status": "x",
+                "title": "#todo Testing AMR MQTT Subscription on QA for Dynamic Activation/Deactivation 🔺 ➕ 2025-02-26 🛫 2025-02-26 📅 2025-02-26 ✅ 2025-02-27",
+                "body": [],
+                "time": "",
+                "due": "2025-02-26",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 1,
+                "filePath": "00_Daily_Notes/2025/February/26-02-2025.md",
+                "completion": "2025-02-27"
+            }
+        ],
+        "00_Daily_Notes/2025/February/25-02-2025.md": [
+            {
+                "id": 2249314847,
+                "status": "x",
+                "title": "#todo Code review With Sanhil ➕ 2025-02-25 🛫 2025-02-25 ⏳ 2025-02-25 📅 2025-02-25 ✅ 2025-02-25",
+                "body": [],
+                "time": "",
+                "due": "2025-02-25",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/February/25-02-2025.md",
+                "completion": "2025-02-25"
+            },
+            {
+                "id": 1397419014,
+                "status": "x",
+                "title": "#todo Create Entity For Action Parameter ⏫ ➕ 2025-02-25 🛫 2025-02-25 📅 2025-02-25 ✅ 2025-02-25",
+                "body": [],
+                "time": "",
+                "due": "2025-02-25",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 2,
+                "filePath": "00_Daily_Notes/2025/February/25-02-2025.md",
+                "completion": "2025-02-25"
+            },
+            {
+                "id": 640088188,
+                "status": "x",
+                "title": "#todo Create and Test CRUD Operation for Action Parameter ⏫ ➕ 2025-02-25 🛫 2025-02-25 📅 2025-02-25 ✅ 2025-02-25",
+                "body": [],
+                "time": "",
+                "due": "2025-02-25",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 2,
+                "filePath": "00_Daily_Notes/2025/February/25-02-2025.md",
+                "completion": "2025-02-25"
+            },
+            {
+                "id": 274780132,
+                "status": "x",
+                "title": "#todo Change Action Type entity for displayType to actionCategory ⏫ ➕ 2025-02-25 🛫 2025-02-25 📅 2025-02-25 ✅ 2025-02-25",
+                "body": [],
+                "time": "",
+                "due": "2025-02-25",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 2,
+                "filePath": "00_Daily_Notes/2025/February/25-02-2025.md",
+                "completion": "2025-02-25"
+            },
+            {
+                "id": 3939365942,
+                "status": "x",
+                "title": "#todo Commit Changes Entity and Curd by 5:30 ⏫ ➕ 2025-02-25 🛫 2025-02-25 📅 2025-02-25 ✅ 2025-02-25",
+                "body": [],
+                "time": "",
+                "due": "2025-02-25",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 2,
+                "filePath": "00_Daily_Notes/2025/February/25-02-2025.md",
+                "completion": "2025-02-25"
+            },
+            {
+                "id": 1594601922,
+                "status": "x",
+                "title": "#todo Commit For Action Type Changes by 6:00 ⏫ ➕ 2025-02-25 🛫 2025-02-25 ⏳ 2025-02-25 📅 2025-02-25 ✅ 2025-02-25",
+                "body": [],
+                "time": "",
+                "due": "2025-02-25",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 2,
+                "filePath": "00_Daily_Notes/2025/February/25-02-2025.md",
+                "completion": "2025-02-25"
+            },
+            {
+                "id": 303043388,
+                "status": "x",
+                "title": "#todo Commit For Minor Bug Fix by 6:45 ⏫ ➕ 2025-02-25 🛫 2025-02-25 ⏳ 2025-02-25 📅 2025-02-25 ✅ 2025-02-25",
+                "body": [],
+                "time": "",
+                "due": "2025-02-25",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 2,
+                "filePath": "00_Daily_Notes/2025/February/25-02-2025.md",
+                "completion": "2025-02-25"
+            },
+            {
+                "id": 3920528577,
+                "status": "x",
+                "title": "#todo Discuss with @Murugan about the Inbound/outbound Screen 🔼 ➕ 2025-02-25 🛫 2025-02-25 📅 2025-02-25 ✅ 2025-02-25",
+                "body": [],
+                "time": "",
+                "due": "2025-02-25",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 3,
+                "filePath": "00_Daily_Notes/2025/February/25-02-2025.md",
+                "completion": "2025-02-25"
+            }
+        ],
+        "00_Daily_Notes/2025/February/07-02-2025.md": [
+            {
+                "id": 3581776535,
+                "status": "x",
+                "title": "#todo Connect with Sanhil about the Add to my study Issue ➕ 2025-02-07 🛫 2025-02-10 ⏳ 2025-02-07 📅 2025-02-10 ✅ 2025-02-13",
+                "body": [],
+                "time": "",
+                "due": "2025-02-10",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/February/07-02-2025.md",
+                "completion": "2025-02-13"
+            }
+        ],
+        "00_Daily_Notes/2025/February/05-02-2025.md": [
+            {
+                "id": 2378469625,
+                "status": "x",
+                "title": "#todo Logo issue 🔺 ➕ 2025-02-05 🛫 2025-02-05 ⏳ 2025-02-05 📅 2025-02-06 ✅ 2025-02-07",
+                "body": [],
+                "time": "",
+                "due": "2025-02-06",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 1,
+                "filePath": "00_Daily_Notes/2025/February/05-02-2025.md",
+                "completion": "2025-02-07"
+            },
+            {
+                "id": 4006578766,
+                "status": "x",
+                "title": "#todo Login -  user Issue ➕ 2025-02-05 🛫 2025-02-05 ⏳ 2025-02-05 📅 2025-02-06 ✅ 2025-02-05",
+                "body": [],
+                "time": "",
+                "due": "2025-02-06",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/February/05-02-2025.md",
+                "completion": "2025-02-05"
+            }
+        ],
+        "00_Daily_Notes/2025/April/10-04-2025.md": [
+            {
+                "id": 3061680170,
+                "status": "x",
+                "title": "#todo Update visualization DTO and Archiving Db script ➕ 2025-04-11 🛫 2025-04-12 ⏳ 2025-04-14 📅 2025-04-14 ✅ 2025-04-16",
+                "body": [],
+                "time": "",
+                "due": "2025-04-14",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2025/April/10-04-2025.md",
+                "completion": "2025-04-16"
+            }
+        ],
+        "00_Daily_Notes/2025/April/04-04-2025.md": [
+            {
+                "id": 1011769892,
+                "status": "x",
+                "title": "#todo Dry Run For the Synthia AI Dashboard for Skulogic 🔺 ➕ 2025-04-04 🛫 2025-04-04 ⏳ 2025-04-04 📅 2025-04-04 ✅ 2025-04-16",
+                "body": [],
+                "time": "",
+                "due": "2025-04-04",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 1,
+                "filePath": "00_Daily_Notes/2025/April/04-04-2025.md",
+                "completion": "2025-04-16"
+            }
+        ],
+        "00_Daily_Notes/2024/December/31-12-2024.md": [
+            {
+                "id": 717240128,
+                "status": "x",
+                "title": "#todo [[Research Trigger for MYSQL For Visualization Entity Archive]] ➕ 2024-12-31 🛫 2025-01-07 ⏳ 2025-01-07 📅 2025-01-09 ✅ 2025-01-10",
+                "body": [],
+                "time": "",
+                "due": "2025-01-09",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2024/December/31-12-2024.md",
+                "completion": "2025-01-10"
+            }
+        ],
+        "00_Daily_Notes/2024/December/11-12-2024.md": [
+            {
+                "id": 1193155204,
+                "status": "x",
+                "title": "#todo Review AMR Entity Changes ➕ 2024-12-11 🛫 2024-12-11 ⏳ 2024-12-12 📅 2024-12-12 ✅ 2024-12-16",
+                "body": [],
+                "time": "",
+                "due": "2024-12-12",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2024/December/11-12-2024.md",
+                "completion": "2024-12-16"
+            }
+        ],
+        "00_Daily_Notes/2024/December/10-12-2024.md": [
+            {
+                "id": 4240190154,
+                "status": "x",
+                "title": "#todo Research about unsubscribing form a queue in RabbitMQ ➕ 2024-12-10 🛫 2024-12-10 ⏳ 2024-12-10 📅 2024-12-11 ✅ 2024-12-10",
+                "body": [],
+                "time": "",
+                "due": "2024-12-11",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2024/December/10-12-2024.md",
+                "completion": "2024-12-10"
+            },
+            {
+                "id": 3517830057,
+                "status": "x",
+                "title": "#todo Add comments, logs and JSDocs for the code until now ⏫ ➕ 2024-12-10 🛫 2024-12-10 ⏳ 2024-12-10 📅 2024-12-11 ✅ 2024-12-10",
+                "body": [],
+                "time": "",
+                "due": "2024-12-11",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 2,
+                "filePath": "00_Daily_Notes/2024/December/10-12-2024.md",
+                "completion": "2024-12-10"
+            }
+        ],
+        "00_Daily_Notes/2024/December/05-12-2024.md": [
+            {
+                "id": 1811081955,
+                "status": "x",
+                "title": "#todo Meeting: [[Quason Client Discussion 05-12-2024|Qauson Discussion]] ⏫ ➕ 2024-12-05 🛫 2024-12-05 ⏳ 2024-12-05 📅 2024-12-05 ✅ 2024-12-05",
+                "body": [],
+                "time": "",
+                "due": "2024-12-05",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 2,
+                "filePath": "00_Daily_Notes/2024/December/05-12-2024.md",
+                "completion": "2024-12-05"
+            }
+        ],
+        "00_Daily_Notes/2024/December/03-12-2024.md": [
+            {
+                "id": 397036054,
+                "status": "x",
+                "title": "#todo Connect with Sachin sir for adding payment for IL 🔼 🛫 2024-12-03 📅 2024-12-04 ✅ 2024-12-03",
+                "body": [],
+                "time": "",
+                "due": "2024-12-04",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 3,
+                "filePath": "00_Daily_Notes/2024/December/03-12-2024.md",
+                "completion": "2024-12-03"
+            },
+            {
+                "id": 120925085,
+                "status": "x",
+                "title": "#todo Review Sanhil Code for Free Account Upgrade for IL 🔽 🛫 2024-12-04 ⏳ 2024-12-04 📅 2024-12-04 ✅ 2024-12-04",
+                "body": [],
+                "time": "",
+                "due": "2024-12-04",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 4,
+                "filePath": "00_Daily_Notes/2024/December/03-12-2024.md",
+                "completion": "2024-12-04"
+            }
+        ],
+        "00_Daily_Notes/2024/December/02-12-2024.md": [
+            {
+                "id": 1012934601,
+                "status": "x",
+                "title": "#todo connect with Sanhil for payment 📅 2024-12-03 ✅ 2024-12-03",
+                "body": [],
+                "time": "",
+                "due": "2024-12-03",
+                "tags": [
+                    "#todo"
+                ],
+                "priority": 0,
+                "filePath": "00_Daily_Notes/2024/December/02-12-2024.md",
+                "completion": "2024-12-03"
+            }
+        ]
+    }
+}
