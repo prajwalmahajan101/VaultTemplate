@@ -5,6 +5,7 @@ source_type:
 source_name: 
 author: 
 topic_note:
+date: 2025-08-10
 ---
 ## Notes
 

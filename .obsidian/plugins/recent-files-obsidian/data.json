@@ -1,64 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Life Dashboard",
-      "path": "Life Dashboard.md"
-    },
-    {
-      "basename": "Example Meeting Notes",
-      "path": "05_Meeting_Notes/Example Meeting Notes.md"
-    },
-    {
-      "basename": "Report",
-      "path": "04_Projects/Project 1/Reports/Report.md"
-    },
-    {
-      "basename": "Document",
-      "path": "04_Projects/Project 1/Documents/Document.md"
-    },
-    {
-      "basename": "__introduction",
-      "path": "04_Projects/Project 1/__introduction.md"
-    },
-    {
-      "basename": "Example Study Topic",
-      "path": "03_Study_Notes/topics/Example Study Topic.md"
-    },
-    {
-      "basename": "Example Study Note",
-      "path": "03_Study_Notes/notes/Example Study Note.md"
-    },
-    {
-      "basename": "Example Sub Task",
-      "path": "02_Sub_Task_Notes/Example Sub Task.md"
-    },
-    {
-      "basename": "Example Task",
-      "path": "01_Task_Notes/Example Task.md"
-    },
-    {
-      "basename": "Drawing 2025-07-10 12.53.39.excalidraw",
-      "path": "__scrible/Drawing 2025-07-10 12.53.39.excalidraw.md"
-    },
-    {
-      "basename": "gitflow",
-      "path": "_assets/gitflow.png"
+      "basename": "10-08-2025",
+      "path": "00_Daily_Notes/2025/August/10-08-2025.md"
     },
     {
       "basename": "Daily Notes",
       "path": "_templates/Daily Notes.md"
     },
     {
-      "basename": "Main Task Template",
-      "path": "_templates/Main Task Template.md"
+      "basename": "Life Dashboard",
+      "path": "Life Dashboard.md"
     },
     {
-      "basename": "Meeting Notes",
-      "path": "_templates/Meeting Notes.md"
+      "basename": "Example Study Notes",
+      "path": "03_Study_Notes/notes/Example Study Notes.md"
     },
     {
-      "basename": "Study Notes",
-      "path": "_templates/Study Notes.md"
+      "basename": "Example Study Topic",
+      "path": "03_Study_Notes/topics/Example Study Topic.md"
+    },
+    {
+      "basename": "__introduction",
+      "path": "04_Projects/Project 1/__introduction.md"
+    },
+    {
+      "basename": "Document",
+      "path": "04_Projects/Project 1/Documents/Document.md"
+    },
+    {
+      "basename": "Example Meeting Note",
+      "path": "05_Meeting_Notes/Example Meeting Note.md"
     },
     {
       "basename": "Sub Task Template",
@@ -69,8 +41,28 @@
       "path": "_templates/Study Topic Notes.md"
     },
     {
-      "basename": "03-08-2025",
-      "path": "00_Daily_Notes/2025/August/03-08-2025.md"
+      "basename": "Study Notes",
+      "path": "_templates/Study Notes.md"
+    },
+    {
+      "basename": "Meeting Notes",
+      "path": "_templates/Meeting Notes.md"
+    },
+    {
+      "basename": "Main Task Template",
+      "path": "_templates/Main Task Template.md"
+    },
+    {
+      "basename": "Report",
+      "path": "04_Projects/Project 1/Reports/Report.md"
+    },
+    {
+      "basename": "Drawing 2025-07-10 12.53.39.excalidraw",
+      "path": "__scrible/Drawing 2025-07-10 12.53.39.excalidraw.md"
+    },
+    {
+      "basename": "gitflow",
+      "path": "_assets/gitflow.png"
     }
   ],
   "omittedPaths": [],

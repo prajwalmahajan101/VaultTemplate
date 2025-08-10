@@ -1,12 +1,13 @@
 ---
+title: <% tp.file.title %>
 tags:
   - meeting_notes
-date: 2024-12-05
-from: 2024-12-05T10:30:00
-to: 2024-12-05T11:00:00
+date: <% moment().format("YYYY-MM-DD") %>
+starts_on: <% moment().format("YYYY-MM-DD HH:mm") %>
+ends_on: <% moment().add(1, "hours").format("YYYY-MM-DD HH:mm") %>
 ---
 
-
+# Meeting — <% moment().format("YYYY-MM-DD") %> | <% moment().format("HH:mm") %> to <% moment().add(1, "hours").format("HH:mm") %>
 ## Agenda and Goals
 
 ___

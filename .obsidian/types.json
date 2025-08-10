@@ -33,6 +33,7 @@
     "createdAt": "date",
     "source_type": "text",
     "team_members": "multitext",
-    "topic_note": "multitext"
+    "topic_note": "multitext",
+    "Links": "multitext"
   }
 }

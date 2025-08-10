@@ -5,6 +5,7 @@ source_type:
 source_name: 
 author: 
 topic_note:
+date: <% moment().format("YYYY-MM-DD") %>
 ---
 ## Notes
 

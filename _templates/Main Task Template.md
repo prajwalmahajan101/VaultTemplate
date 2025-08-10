@@ -1,14 +1,14 @@
 ---
-Starts On: 2024-12-02
-End On: 2024-12-06
-Estimates: 5 days
-TaskId: 
-Type: Task
-Status: Todo
+starts_on: <% moment().format("YYYY-MM-DD") %>
+end_on: <% moment().add(5,"d").format("YYYY-MM-DD") %>
+estimates: 5 days
+task_id: 
+type: Task
+status: Todo
 tags:
   - task_notes
+date: <% moment().format("YYYY-MM-DD") %>
 ---
-
 # Overview
 
 > [!warning]+ Overdue Task Or Due Today

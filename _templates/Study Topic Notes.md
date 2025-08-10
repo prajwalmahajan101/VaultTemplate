@@ -1,4 +1,5 @@
 ---
+date: <% moment().format("YYYY-MM-DD") %>
 tags:
   - study_topic
 ---

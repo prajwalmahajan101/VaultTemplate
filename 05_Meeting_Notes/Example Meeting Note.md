@@ -1,12 +1,13 @@
 ---
+title: Untitled
 tags:
   - meeting_notes
-date: 2024-12-05
-from: 2024-12-05T10:30:00
-to: 2024-12-05T11:00:00
+date: 2025-08-10
+starts_on: 2025-08-10 21:48
+ends_on: 2025-08-10 22:48
 ---
 
-
+# Meeting — 2025-08-10 | 21:48 to 22:48
 ## Agenda and Goals
 
 ___

@@ -1,6 +1,7 @@
 ---
 tags:
   - daily_note
+date: <% moment().format("YYYY-MM-DD") %>
 ---
 ## <% moment(tp.file.title, "DD-MM-YYYY").format("dddd Do MMMM YYYY") %>
 
@@ -50,7 +51,6 @@ tags:
 > done <% moment(tp.file.title, 'DD-MM-YYYY').format('YYYY-MM-DD') %>
 >  hide due date
 >  ```
-
 
 ___
 ## Notes
