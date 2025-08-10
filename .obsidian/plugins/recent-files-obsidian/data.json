@@ -9,16 +9,32 @@
       "path": "_templates/Daily Notes.md"
     },
     {
+      "basename": "Example Sub Task",
+      "path": "02_Sub_Task_Notes/Example Sub Task.md"
+    },
+    {
       "basename": "Life Dashboard",
       "path": "Life Dashboard.md"
+    },
+    {
+      "basename": "Reading",
+      "path": "06_Hobbies/Reading.md"
+    },
+    {
+      "basename": "Example Meeting Note",
+      "path": "05_Meeting_Notes/Example Meeting Note.md"
+    },
+    {
+      "basename": "Example Study Topic",
+      "path": "03_Study_Notes/topics/Example Study Topic.md"
     },
     {
       "basename": "Example Study Notes",
       "path": "03_Study_Notes/notes/Example Study Notes.md"
     },
     {
-      "basename": "Example Study Topic",
-      "path": "03_Study_Notes/topics/Example Study Topic.md"
+      "basename": "Example Task",
+      "path": "01_Task_Notes/Example Task.md"
     },
     {
       "basename": "__introduction",
@@ -27,10 +43,6 @@
     {
       "basename": "Document",
       "path": "04_Projects/Project 1/Documents/Document.md"
-    },
-    {
-      "basename": "Example Meeting Note",
-      "path": "05_Meeting_Notes/Example Meeting Note.md"
     },
     {
       "basename": "Sub Task Template",
