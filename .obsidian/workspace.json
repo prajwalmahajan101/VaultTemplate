@@ -270,8 +270,9 @@
   },
   "active": "a40474ee33f76174",
   "lastOpenFiles": [
-    "_templates/Daily Notes.md",
+    "00_Daily_Notes/2025/August/14-08-2025.md",
     "00_Daily_Notes/2025/August/10-08-2025.md",
+    "_templates/Daily Notes.md",
     "00_Daily_Notes/2025/August/Untitled.md",
     "02_Sub_Task_Notes/Example Sub Task.md",
     "Life Dashboard.md",
@@ -298,7 +299,6 @@
     "02_Sub_Task_Notes/Implement Visualization Topic Handler.md",
     "02_Sub_Task_Notes/Implement Connection Topic Handler.md",
     "02_Sub_Task_Notes/Create and Review DB change Designs.md",
-    "02_Sub_Task_Notes/AMR Entity Update For manufacturer.md",
     "_assets/gitflow.png",
     "00_Daily_Notes/2025/August",
     "__scrible",
